@@ -2,7 +2,7 @@
 title: "Writing as thinking"
 description: "Lorem ipsum dolor sit amet"
 pubDate: "Aug 14 2026"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+heroImage: "../../assets/writing-as-thinking.jpg"
 ---
 
 Writing as thinking is not a new concept. I remember writing essays by hand during school, and the speed of writing was literally limited by the speed of my handwriting (which was slow and as my daughter will tell me is largely unreadable). However there was a surprising benefit to this, in that my brain had time to stew and consider my thoughts, plan what I was going write next, purely by the fact it was buffered by my own physical limitations.
