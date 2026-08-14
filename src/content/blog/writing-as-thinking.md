@@ -5,7 +5,7 @@ pubDate: "Aug 14 2026"
 heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
-Writing as thinking is not a new concept. I remember writing essays by hand during school, and the speed of writing was literally limited by speed of my handwriting (which was slow and as my daughter will tell me is largely unreadable). However there was a surprising benefit to this, in that my brain had time to stew and consider my thoughts, plan what I was going write next, purely by the fact it was buffered by my own physical limitations.
+Writing as thinking is not a new concept. I remember writing essays by hand during school, and the speed of writing was literally limited by the speed of my handwriting (which was slow and as my daughter will tell me is largely unreadable). However there was a surprising benefit to this, in that my brain had time to stew and consider my thoughts, plan what I was going write next, purely by the fact it was buffered by my own physical limitations.
 
 The process of writing itself being as important as the output is one that has stuck with me, since I heard about it on a podcast many a years ago. It resonated as we pushed hard at work around writing better technical documentation. If you have to write it, you have to think about it, edit it, retype, reread until it is the final product you were intended to create. The byproduct is one of reflection and a greater understanding of what you set out to write.
 
