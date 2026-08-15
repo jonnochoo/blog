@@ -25,4 +25,8 @@ Assumption make an "ass out of you an me" (ass-u-me, if you don't get it), so I 
 
 How can I prove its not there? Delete the old RabbitMQ. Or even just verify there are no RabbitMQ connections on the old server.
 
-The fear is healthy, experience tells me to challenge and verify. But experience also is teaching me to not let the fear cripple you from moving forward.
+The fear is healthy, experience tells me to challenge and verify. But experience is teaching me to not let the fear cripple me from moving forward. It requires thought,
+and planning, working through evidence to give me confidence there is real proof that with a risky deployment everything is going to be okay.
+
+PS: Canary deployments have been another great way, especially
+with frontend apps, its an easy way to give early access to some users and reduce the risk and impact.
