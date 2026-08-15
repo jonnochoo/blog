@@ -2,7 +2,6 @@
 title: "Confident Green"
 description: "Thoughts about confidence with deploying"
 pubDate: "Aug 15 2026"
-heroImage: "../../assets/writing-as-thinking.jpg"
 ---
 
 _"Just what are you so afraid of? What are you so afraid of?_" is a line in one of my favourite bands songs In Regards to Myself by Underoath. A harkback to my screamo days of my youth. Crunching guitars, and frenetic drumming. Good times.
