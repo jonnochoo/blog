@@ -1,6 +1,6 @@
 ---
 title: "Writing as thinking"
-description: "Lorem ipsum dolor sit amet"
+description: "Spend time writing more, and more time thinking"
 pubDate: "Aug 14 2026"
 heroImage: "../../assets/writing-as-thinking.jpg"
 ---
