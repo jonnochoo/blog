@@ -1,6 +1,6 @@
 ---
 title: "Writing as thinking"
-description: "Spend time writing more, and more time thinking"
+description: "Spend more time writing, and more time thinking"
 pubDate: "Aug 14 2026"
 ---
 
