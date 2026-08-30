@@ -14,9 +14,9 @@ Thinking fast is not bad, its just often instinctual and automatic, and you can 
 
 I feel like this requires a conscious push back to how we work. Everything in society is about being instant, but deep thought and reflection is required. We need to "think in slow motion".
 
-Here are more thoughts around how we can do this.
+Here are more thoughts around how we can do this in various parts of the lifecycle of development.
 
-## 1. Understanding the Problem
+### 1. Understanding the Problem
 
 - **What We Still Need To Do**
   - Provide context and an understanding of the business needs
@@ -28,7 +28,7 @@ Here are more thoughts around how we can do this.
   - **Rubber Duck:** Once we have thought about it, researched and thought through options - AI can be great to rubber duck ideas
   - **Summarise Trade offs:** Engineering is all about trade offs, and AI is great at summarisation, if you have conversation with it then getting it to summarise the options + trade offs is a great way to bring things back to a stage where we can decide on what option to go with
 
-## 2. Planning
+### 2. Planning
 
 - **How It Can Help Us?**
   - **Breaking Down The Problem Into Smaller Chunks:** Once we understand the problem, and have chosen a direction, it can be great at breaking this down into smaller chunks (a series of PRs even)
@@ -37,14 +37,14 @@ Here are more thoughts around how we can do this.
   - Push back on the plan if things don't look right. Remember "thinking in slow motion", now is the time to do that.
   - Rinse and repeat until we are happy.
 
-## 3. Build
+### 3. Build
 
 - **How It Can Help Us?**
   - It can write the code! We may miss writing code, but you hear so many engineers talk about how they haven't hand written a line of code in months.
 - **What We Still Need To Do**
   - **Know What Clean Code Is:** As LLM improve they are getting better at writing code, but for now I believe we still need to know what good code looks like, so when we review, we can affirm if the code is good or not.
 
-## 4. Verification
+### 4. Verification
 
 - **How It Can Help Us?**
   - Verify what it has built by writing its unit tests, integration tests, E2E testing or even the type of tests (approval tests) etc.
